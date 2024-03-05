@@ -124,7 +124,7 @@ This "Career Goals Reflection" is designed to articulate and structure my though
 1. **Steps to Achieve Short-term Goals**:
     
     - Specific actions or steps needed to achieve each short-term goal.
-        - **Actions**:<br>
+        - **Actions**:<br><br>
             - Goal 1:
                 - Attend all session, submit all projects and actively participate in class discussions and sessions.
                 - Complete all assigned coursework and projects to a high standard.
