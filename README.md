@@ -124,18 +124,19 @@ This "Career Goals Reflection" is designed to articulate and structure my though
 1. **Steps to Achieve Short-term Goals**:
     
     - Specific actions or steps needed to achieve each short-term goal.
-        - **Actions**:<br><br>
+        - **Actions**:
+        
             - Goal 1:
                 - Attend all session, submit all projects and actively participate in class discussions and sessions.
                 - Complete all assigned coursework and projects to a high standard.
                 - Seek clarification and guidance from my coaches whenever needed.
                 - Utilize online resources like tutorials, documentation, and practice questions to supplement learning.
-            - Goal 2:<br>
+            - Goal 2:
                 - Enroll in an online course or coding bootcamp focused on advanced JavaScript concepts.
                 - Participate in online coding challenges and hackathons specifically targeting JavaScript.
                 - Develop personal projects that require the implementation of advanced JavaScript concepts.
                 - Join online communities and forums related to JavaScript development for discussions and peer learning.
-            - Goal 3:<br>
+            - Goal 3:
                 - Choose a reputable online course or tutorial that comprehensively covers React development.
                 - Follow the course curriculum, completing all exercises and practice projects.
                 - Build a personal portfolio project utilizing React to showcase your newly acquired skills.
@@ -147,6 +148,7 @@ This "Career Goals Reflection" is designed to articulate and structure my though
           
     - Resources or support required.
         - **Resources and Support**:
+          
             - Goal 1:
                 - Course materials, textbooks, online tutorials and documentation.
                 - Instructors, tutors, and classmates for support and collaboration.
