@@ -50,19 +50,35 @@ This "Career Goals Reflection" is designed to articulate and structure my though
       - Problem-solving and learning new technologies: I am constantly motivated to learn and improve my coding skills by utilizing open-source platform, tackling new challenges and exploring emerging technologies in the front-end development on how to provide solutions to real-world problems mostly in my commmunity.
       - Building impactful and accessible web experiences: I am passionate about creating user-friendly, responsive, and accessible websites that can be used by everyone, regardless of their abilities.
   
-    - Values in a Work Environment:
-      - 
+    - My Values in a Work Environment:
+      - Continuous learning and growth: I value a work environment that encourages continuous learning, professional and personal development, allowing me to stay updated with the evolving trends in front-end development.
+      - Positive and supportive work culture: I thrive in a supportive and encouraging work environment where collaboration, open communication, and constructive feedback are valued.
+      - Collaboration and teamwork: I believe in working effectively within teams, collaborating with stakeholders to create successful projects.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Industries or roles I have researched.
+        - Tech startups: Startups often work with cutting-edge technologies and offer fast-paced, dynamic work environments. They can be a good fit for me with new innovation and quick learning cycles.
+        - Freelancing: This path offers flexibility and allows front-end developers to work on various projects with different clients. It requires strong self-management, financial managemnent, and business development skills.
+        - Web Development: Web development Agencies agencies offer a variety of services, including front-end development, back-end development, design, and marketing. They provide exposure to diverse projects and the opportunity to collaborate with different teams. I am more into design and I consider front-end development a design aspect of interfaces.
+        - E-commerce: E-commerce companies heavily rely on front-end development for creating user-friendly and engaging online shopping experiences. They provide opportunities to work on building scalable and performant web applications with continuous learning.
+          
+    - Particular areas that piqued my interest.
+        - User Interface (UI)/User Experience (UX) focused roles: I find the process of translating user needs into intuitive and visually appealing interfaces particularly engaging and interacting. UI/UX developer or front-end developer with a strong focus on UX is more interesting to me.
+        - Working in the Web/App Development Sector: I am drawn to the potential of using my skills to create impactful applications that improve access to education, healthcare and other services.
+        - I am open to exploring other opportunities that align with my skills, interests, and values. I plan to further research these industries and connect with professionals to gain deeper insights.
+
       
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
+    - Reflection on how these industries/roles align with my skills, interests, and values.
+        - **my skills**:
+            - Freelancing: While I have the technical skills, I may need to develop stronger business development, financial management, self-management, selling and negotiation skills to succeed in this path.
+        - Web Development Agencies, Tech Startups, and E-commerce companies: These industries all heavily utilize front-end development skills, allowing me to leverage my existing knowledge and experience while also learning new technologies and frameworks, and gaining access to industry expertise, knowledge, resources, and professional support.
+        - **Interests**:
+
     - Identify any gaps or areas for further exploration.
 
 ### Part 3: SMART Career Goals
