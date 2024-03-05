@@ -217,10 +217,24 @@ This "Career Goals Reflection" is designed to articulate and structure my though
     - Networking, mentorship, or educational opportunities.
         - Online communities: Participating in online communities and forums dedicated to front-end development, UI/UX design, and the healthcare/education sector will allow me to connect with like-minded individuals, learn from their experiences, and stay updated on industry trends.
         - Professional organizations: Joining professional organizations or attending industry conferences and events provides valuable networking opportunities and access to professional development resources.
-        - Mentorship programs: Seeking mentorship opportunities from experienced professionals in my desired field. Mentors can offer guidance, career advice, and valuable insights into the industry.
+        - Mentorship programs: Seeking mentorship opportunities from experienced professionals in my field. Mentors can offer guidance, career advice, and valuable insights into the industry.
         - Online courses and bootcamps: Numerous online courses and bootcamps are available to help me learn new front-end development frameworks, UI/UX design principles, and other relevant skills.
         - University courses: Pursuing a bachelor's degree or postgraduate studies in information technology, digital multi-media, information systems, or related fields, will be crucial.
         - Open-source contributions: Contributing to open-source projects will allow me to gain practical experience, build my portfolio, and network with other developers in the community.
-        - Participating in hackathons: Hackathons provide a platform to apply my skills to real-world problems, collaborate with other developers, and potentially win recognition for your work.
+        - Participating in hackathons: Hackathons provide a platform to apply my skills to real-world problems, collaborate with other developers, and potentially win recognition for my work.
 
 ### Conclusion and Next Steps
+
+This ia my roadmap for my journey as a front-end developer. Through self-assessment, I identified my strengths, areas for development, and core values that will guide my career choices. By reflecting on potential industries and roles, I discovered a compelling alignment between my interests, skills, and the desire to contribute to positive social change within the healthcare or education sector.
+<br>
+I established a clear path for acquiring the necessary skills and experience in the short-term, focusing on mastering a front-end framework, improving JavaScript proficiency, and gaining a foundation in UI/UX design principles. I also outlined long-term aspirations to become a senior front-end developer with expertise in building accessible and user-centered applications, ultimately aiming to develop my own web application or organization that benefits my community.
+<br>
+Recognizing potential challenges and opportunities, allowed me to develop strategies for overcoming obstacles and leverage various resources for my growth. This includes networking with professionals, pursuing educational opportunities, and actively engaging in the developer community.
+
+**Next Steps**
+
+- Allocate dedicated time for practicing advanced JavaScript, learning React framework, and building portfolio projects alongside my coursework.
+- Connect with professionals in the web development sector through online communities, attend nearby industry events, and participate in online forums.
+- Seek mentorship for guidance and support as I navigate my career path.
+- Stay updated on industry trends, explore additional web development learning opportunities, and consider pursuing relevant certifications to enhance your skillset.
+- As I gain experience and learn more about the industry, I will revisit and refine my long-term goals to ensure they continue to reflect my evolving interests and aspirations.
