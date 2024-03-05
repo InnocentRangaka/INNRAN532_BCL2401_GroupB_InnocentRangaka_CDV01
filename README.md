@@ -74,31 +74,91 @@ This "Career Goals Reflection" is designed to articulate and structure my though
 2. **Alignment with Personal Profile**:
     
     - Reflection on how these industries/roles align with my skills, interests, and values.
-        - **my skills**:
+        - **My skills**:
             - Freelancing: While I have the technical skills, I may need to develop stronger business development, financial management, self-management, selling and negotiation skills to succeed in this path.
-        - Web Development Agencies, Tech Startups, and E-commerce companies: These industries all heavily utilize front-end development skills, allowing me to leverage my existing knowledge and experience while also learning new technologies and frameworks, and gaining access to industry expertise, knowledge, resources, and professional support.
-        - **Interests**:
+            - Web Development Agencies, Tech Startups, and E-commerce companies: These industries all heavily utilize front-end development skills, allowing me to leverage my existing knowledge and experience while also learning new technologies and frameworks, and gaining access to industry expertise, knowledge, resources, and professional support.
+              
+        - **My Interests**:
+            - UI/UX focused roles: This aligns perfectly with my interest in creating user-friendly and visually appealing interfaces.
+            - Software Development Sector: This industry resonate with my desire to build impactful applications that improves business efficiency, contribute to positive social change through design and coding.
+              
+        - **My Values**:
+            - Positive work culture: Companies within these industries will be crucial to ensure a positive and supportive work environment for me.
+            - Continuous learning: The tech industry, by nature, encourages continuous learning, fulfilling my desire for professional development.
+            - Collaboration: All the explored options present opportunities for collaboration with various stakeholders, which aligns with my value of teamwork.
 
-    - Identify any gaps or areas for further exploration.
+    - Gaps and areas for further exploration.
+        - Freelancing: As mentioned earlier, I need to develop stronger business development, financial managemnt, self-management and communication skills for this path.
+        - Specific industry knowledge: While I have the core technical skills, gaining specific knowledge about the software development industry could benefit me when applying for relevant roles and developing business and social projects.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - My specific, measurable, achievable, relevant, and time-bound goals.
+        - Goal 1: Graduate with distinctions as Frond-End Developer by December 2024.
+        - Goal 2: Improve my JavaScript skills by practicing advanced concepts like asynchronous programming, object-oriented programming, and design patterns through online coding challenges and personal projects
+        - Goal 3: Master a front-end framework (React) by completing a comprehensive online course and building a personal portfolio project utilizing the chosen framework.
+        - Goal 4: Start my full-stack development course 6 months after my graduation as a front-end developer.
+           
+    - Rationale behind each goal.
+        - Goal 1: Graduating with distinctions will enhance my chances of employment, I will become a viable option for bursaries, scholarships, learnerships, and even internships. It will provide me with the foundation I need to study further.
+        - Goal 2: Advanced JavaScript skills are crucial for creating efficient and maintainable web applications, making me a more valuable developer.
+        - Goal 3: Mastering a popular framework (React) will enhance my marketability and equip me with the skills to build more complex and interactive web applications.
+        - Goal 4: This will help me work on both front-end and back-end of a website or applications.
       
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
+    - My long-term career aspirations.
+        - Aspiration 1: Secure a front-end developer role in a company within the healthcare or education sector, ideally focusing on UI/UX development.
+        - Aspiration 2: Become a senior front-end developer with expertise in building accessible and user-centered web applications that contribute to improving access to business, education, and healthcare services.
+        - Aspiration 3: Having my own web application or web based organization like neobank for my community.
+
     - Describe how these align with your interests and skills.
+        - Aspiration 1: Aligns with my interest in creating impactful applications and contributing to positive change, while utilizing my front-end development skills and passion for UI/UX design.
+        - Aspiration 2: Combines my technical skills with my desire to create meaningful applications that have a positive social impact.
+        - Aspiration 3: Will help me to establish myself as a skilled and impactful front-end developer, and give back to my community with my application/organization.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Specific actions or steps needed to achieve each short-term goal.
+        - **Actions**:
+            - Goal 1:
+                - Attend all session, submit all projects and actively participate in class discussions and sessions.
+                - Complete all assigned coursework and projects to a high standard.
+                - Seek clarification and guidance from my coaches whenever needed.
+                - Utilize online resources like tutorials, documentation, and practice questions to supplement learning.
+            - Goal 2:
+                - Enroll in an online course or coding bootcamp focused on advanced JavaScript concepts.
+                - Participate in online coding challenges and hackathons specifically targeting JavaScript.
+                - Develop personal projects that require the implementation of advanced JavaScript concepts.
+                - Join online communities and forums related to JavaScript development for discussions and peer learning.
+            - Goal 3:
+                - Choose a reputable online course or tutorial that comprehensively covers React development.
+                - Follow the course curriculum, completing all exercises and practice projects.
+                - Build a personal portfolio project utilizing React to showcase your newly acquired skills.
+                - Engage in online communities and forums specific to React development for troubleshooting and knowledge sharing.
+            - Goal 4:
+                - Research and compare different full-stack development courses available online or in institutions.
+                - Consider factors like course curriculum, instructor experience, learning format, and cost when choosing a course.
+                - Obtain the necessary resources (financial aid, time commitment) to enroll in the full-stack development course.
+          
+    - Resources or support required.
+        - **Resources and Support**:
+            - Goal 1:
+                - Course materials, textbooks, online tutorials and documentation.
+                - Instructors, tutors, and classmates for support and collaboration.
+            - Goal 2:
+                - Online courses, coding bootcamps, and online coding platforms.
+                - Online community forums, tutorials, and documentation.
+                - My fellow coursemates
+            - Goal 3:
+                - Online courses, tutorials, and official React documentation.
+                - Online communities, forums, and React developer tools.
+            - Goal 4:
+                - Online course review websites, online educational institutions, and financial aid programs (if applicable).
       
 2. **Preparation for Long-term Goals**:
     
